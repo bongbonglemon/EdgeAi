@@ -1,9 +1,5 @@
 # Project Write-Up
 
-You can use this document as a template for providing your project write-up. However, if you
-have a different format you prefer, feel free to use it as long as you answer all required
-questions.
-
 ## How I convert with Model Optimizer
 
 I download the SSD MobileNet V2 COCO model from here:http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v2_coco_2018_03_29.tar.gz
